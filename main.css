@@ -83,5 +83,14 @@ h3{
 
 @media screen and (max-width:640){
     
-    
+.container{
+    display: block;
+
+}
+.noticia-principal {
+    display: block;
+}
+.noticias{
+    display: block;
+}
 }
